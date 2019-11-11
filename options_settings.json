@@ -1,0 +1,16 @@
+{
+    "textLanguageIndex": 6,
+    "enableTips": true,
+    "enableControllerRumble": true,
+    "enableCameraRumble": true,
+    "enableVsync": true,
+    "enableFullScreen": true,
+    "screenBrightness": 54,
+    "screenResolution": 17,
+    "anisotropicFiltering": "Disable",
+    "resolutionMode": "PIXEL_PERFECT",
+    "masterVolume": 100,
+    "effectsVolume": 100,
+    "musicVolume": 100,
+    "voiceVolume": 100
+}
